@@ -80,7 +80,7 @@ The first two users (experieneced and moderate) were able to quickly location th
 
 The third user (new user) actually created a new playlist by clicking the upper `File` tab then selecting `New Playlist`. When reviewing the results with her, I found that the `New Playlist` button on the left hand side is not labeled very clear, and might not be as intuitive for non-Spotify users.
 
-```{r, out.width = "500px", echo=FALSE, fig.align="center"}
+```{r, out.width = "300px", echo=FALSE, fig.align="center"}
 knitr::include_graphics("../images/new_playlist.png")
 ```
 
@@ -88,9 +88,17 @@ _**Add 5 songs to the playlist, from two different genres**_
 
 When browsing for songs to add to the playlist, the first user (experienced) commented that she uses the `Song` folder to store music that she likes and wants to refer back to. Thus, this is the first place she went to search for music to add to her playlist. She commented that by saving songs in this fashion, she is able to narrow the range of her search whenever she creates playlists, but that the music under `Songs` is in a sort of trial stage; not yet in a playlist, but saved in some way.
 
+```{r, out.width = "300px", echo=FALSE, fig.align="center"}
+knitr::include_graphics("../images/yourmusic_songs.png")
+```
+
 The second user (moderate) did not seem to understand the role of `Songs` in the same way as the experienced user, however, she did end up browsing through `Songs` to see what was there. She ultimately added songs that were from another playlist that she guessed to be of two different genres.
 
 When I asked the third user (new) to add songs from different genres, she went to the `Genre` tab and very straightforwardly added songs of different genres to the playlist. She found this an easy task, and added the songs quickly.
+
+```{r, out.width = "300px", echo=FALSE, fig.align="center"}
+knitr::include_graphics("../images/main_browse")
+```
 
 _**Put the playlist in offline mode**_
 
@@ -104,9 +112,13 @@ _**Find three new songs you didn't know about and add them to your playlist**_
 
 The experienced user instantly referred to the scrolling social notifications on the right hand side of the platform. She pulled songs from friends' playlists, commenting "oh I usually like stuff that he listens to." From this I gathered that more experienced users use social features as a shortcut to find songs that they like.
 
-When promted to add songs to the playlist that she had never heard before, the second user (moderate) instantly went to the `Browse/Top lists` portion of the platform in order to discover new songs. She browded the `Top lists` of her area and selected two new rap songs.
+When promted to add songs to the playlist that she had never heard before, the second user (moderate) instantly went to the `Browse/Genres` portion of the platform in order to discover new songs. She browsed the `Genres` of her area, clicked on `Hip Hop` and selected two new rap songs.
 
-The third user (new) had trouble finding new songs. After jumping around a few pages, she found new songs under the `Top hits` playlist. This is not an ideal place to find songs if she were looking for one song in particular. She said that her first instinct was not to go to the `Search` bar.
+The third user (new) had trouble finding new songs. After jumping around a few pages, she found new songs under the `Charts` area. This is not an ideal place to find songs if she were looking for one song in particular. She said that her first instinct was not to go to the `Search` bar.
+
+```{r, out.width = "300px", echo=FALSE, fig.align="center"}
+knitr::include_graphics("../images/discover.png")
+```
 
 ---
 
@@ -121,6 +133,10 @@ _**Find a song from a friend's playlist and add it to your playlist from earlier
 When promted, all three users understood what portions of the platform was dedicated to social interaction at a high level, even the new user. They instantly turned their attention to the rigth hand side of the interface, the activity feed, and accessed friends' accounts and playlists from there. In the subsequent section I will discuss some confusion that arose after this step, but from an organizational standpoint, the social navigation was easy to locate in the overall interface.
 
 One comment worth nothing is that the third user (new) was confused as to which playlists were made by that user. She was unsure if they were playlists that the friend followed or made. She ended up scrolling through their profile for a while, getting frustrated, and just added a song from a different friend's playlist.
+
+```{r, out.width = "300px", echo=FALSE, fig.align="center"}
+knitr::include_graphics("../images/friends_playlist.png")
+```
 
 ---
 
