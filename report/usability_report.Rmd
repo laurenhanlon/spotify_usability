@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Introduction
 
-In an effort to better understand the design of Spotify and it's functionality, I conducted a series of usability tests.
+In an effort to better understand the design of Spotify and it's functionality, I conducted a series of usability tests. You can find the public GitHub repo for this project including all images [here](https://github.com/laurenhanlon/spotify_usability).
 
 I completed three usability tests, where one person was a note-taker with a recorder and I served as the moderator. I then played back the recordings and synthesized each user's experience as well as key findings regarding Spotify's UX.
 
